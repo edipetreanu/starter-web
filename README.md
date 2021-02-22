@@ -12,3 +12,7 @@ New section about introduction
 Sample website with plenty of files for demos
 
 #How to contribute
+
+This will go to staging area
+
+This wil lstay in working area
