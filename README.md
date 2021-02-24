@@ -13,9 +13,7 @@ Sample website with plenty of files for demos
 
 #How to contribute
 
-This will go to staging area
-
-This will stay in working area
+Please fork thsi repository and issue pull request for review
 
 #Copyright
 
