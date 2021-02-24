@@ -15,4 +15,8 @@ Sample website with plenty of files for demos
 
 This will go to staging area
 
-This wil lstay in working area
+This will stay in working area
+
+#Copyright
+
+2014 Git.Training
